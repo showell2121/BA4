@@ -1,0 +1,12 @@
+C:\Users\showe\source\repos\BA5\BA5\bin\Debug\BA5.exe.config
+C:\Users\showe\source\repos\BA5\BA5\bin\Debug\BA5.exe
+C:\Users\showe\source\repos\BA5\BA5\bin\Debug\BA5.pdb
+C:\Users\showe\source\repos\BA5\BA5\bin\Debug\BA5.xml
+C:\Users\showe\source\repos\BA5\BA5\obj\Debug\BA5.vbprojAssemblyReference.cache
+C:\Users\showe\source\repos\BA5\BA5\obj\Debug\BA5.Form1.resources
+C:\Users\showe\source\repos\BA5\BA5\obj\Debug\BA5.Resources.resources
+C:\Users\showe\source\repos\BA5\BA5\obj\Debug\BA5.vbproj.GenerateResource.cache
+C:\Users\showe\source\repos\BA5\BA5\obj\Debug\BA5.vbproj.CoreCompileInputs.cache
+C:\Users\showe\source\repos\BA5\BA5\obj\Debug\BA5.exe
+C:\Users\showe\source\repos\BA5\BA5\obj\Debug\BA5.xml
+C:\Users\showe\source\repos\BA5\BA5\obj\Debug\BA5.pdb
